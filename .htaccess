@@ -1,0 +1,5 @@
+
+	<IfModule mod_headers.c>
+		Header set Access-Control-Allow-Origin: http://v4.allier-tourisme.com
+		Header set Access-Control-Allow-Headers: http://v4.allier-tourisme.com
+	</IfModule>
